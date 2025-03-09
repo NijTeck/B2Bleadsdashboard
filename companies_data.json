@@ -1,0 +1,257 @@
+[
+      {
+        "company_name": "Innovate AI",
+        "address": {
+          "city": "San Francisco",
+          "state": "CA"
+        },
+        "funding_stage": "Series A",
+        "year_founded": 2018,
+        "employee_count": "50-100",
+        "industry": "AI Technology",
+        "business_introduction": "Innovate AI is a leading provider of AI-powered solutions for businesses.",
+        "ai_technology_focus": "Machine Learning, Natural Language Processing",
+        "contact_information": {
+          "email": "info@innovateai.com",
+          "website": "https://www.innovateai.com"
+        }
+      },
+      {
+        "company_name": "Data Insights Corp",
+        "address": {
+          "city": "New York",
+          "state": "NY"
+        },
+        "funding_stage": "Seed",
+        "year_founded": 2020,
+        "employee_count": "10-20",
+        "industry": "AI Consulting",
+        "business_introduction": "Data Insights Corp offers AI consulting services to help businesses leverage data.",
+        "ai_technology_focus": "Data Analytics, Predictive Modeling",
+        "contact_information": {
+          "email": "contact@datainsights.com",
+          "website": "https://www.datainsights.com"
+        }
+      },
+      {
+        "company_name": "Quantum Leap Solutions",
+        "address": {
+          "city": "Seattle",
+          "state": "WA"
+        },
+        "funding_stage": "Series B",
+        "year_founded": 2015,
+        "employee_count": "150-200",
+        "industry": "AI Hardware",
+        "business_introduction": "Quantum Leap Solutions develops cutting-edge AI hardware for various applications.",
+        "ai_technology_focus": "Deep Learning, Computer Vision",
+        "contact_information": {
+          "email": "info@quantumleap.com",
+          "website": "https://www.quantumleap.com"
+        }
+      },
+      {
+        "company_name": "Apex Analytics",
+        "address": {
+          "city": "Austin",
+          "state": "TX"
+        },
+        "funding_stage": "Seed",
+        "year_founded": 2021,
+        "employee_count": "5-10",
+        "industry": "AI Software",
+        "business_introduction": "Apex Analytics provides AI-driven software solutions for businesses.",
+        "ai_technology_focus": "Machine Learning, Data Mining",
+        "contact_information": {
+          "email": "contact@apexanalytics.com",
+          "website": "https://www.apexanalytics.com"
+        }
+      },
+      {
+        "company_name": "Visionary AI",
+        "address": {
+          "city": "Boston",
+          "state": "MA"
+        },
+        "funding_stage": "Series A",
+        "year_founded": 2017,
+        "employee_count": "80-120",
+        "industry": "AITechnology",
+        "business_introduction": "Visionary AI specializes in developing AI-powered solutions for the healthcare industry.",
+        "ai_technology_focus": "Computer Vision, Medical Imaging",
+        "contact_information": {
+          "email": "info@visionaryai.com",
+          "website": "https://www.visionaryai.com"
+        }
+      },
+      {
+        "company_name": "Cognitive Solutions Group",
+        "address": {
+          "city": "Chicago",
+          "state": "IL"
+        },
+        "funding_stage": "Seed",
+        "year_founded": 2022,
+        "employee_count": "20-30",
+        "industry": "AI Consulting",
+        "business_introduction": "Cognitive Solutions Group offers AI consulting services to help businesses implement AI strategies.",
+        "ai_technology_focus": "Natural Language Processing, Chatbots",
+        "contact_information": {
+          "email": "contact@cognitivesolutions.com",
+          "website": "https://www.cognitivesolutions.com"
+        }
+      },
+      {
+        "company_name": "Neural Networks Inc.",
+        "address": {
+          "city": "Los Angeles",
+          "state": "CA"
+        },
+        "funding_stage": "Series A",
+        "year_founded": 2016,
+        "employee_count": "100-150",
+        "industry": "AI Software",
+        "business_introduction": "Neural Networks Inc. develops advanced AI software for various industries.",
+        "ai_technology_focus": "Deep Learning, Neural Networks",
+        "contact_information": {
+          "email": "info@neuralnetworks.com",
+          "website": "https://www.neuralnetworks.com"
+        }
+      },
+      {
+        "company_name": "AI Frontier Labs",
+        "address": {
+          "city": "San Diego",
+          "state": "CA"
+        },
+        "funding_stage": "Seed",
+        "year_founded": 2023,
+        "employee_count": "8-15",
+        "industry": "AI Research",
+        "business_introduction": "AI Frontier Labs conducts cutting-edge research in the field of artificial intelligence.",
+        "ai_technology_focus": "Reinforcement Learning, Robotics",
+        "contact_information": {
+          "email": "research@aifrontierlabs.com",
+          "website": "https://www.aifrontierlabs.com"
+        }
+      },
+      {
+        "company_name": "Intelligent Systems Corp",
+        "address": {
+          "city": "Dallas",
+          "state": "TX"
+        },
+        "funding_stage": "Series B",
+        "year_founded": 2014,
+        "employee_count": "180-220",
+        "industry": "AI Hardware",
+        "business_introduction": "Intelligent Systems Corp. designs and manufactures advanced AI-powered hardware solutions.",
+        "ai_technology_focus": "Computer Vision, Edge Computing",
+        "contact_information": {
+          "email": "info@intelligentsystems.com",
+          "website": "https://www.intelligentsystems.com"
+        }
+      },
+      {
+        "company_name": "DataWise Solutions",
+        "address": {
+          "city": "Houston",
+          "state": "TX"
+        },
+        "funding_stage": "Seed",
+        "year_founded": 2021,
+        "employee_count": "15-25",
+        "industry": "AI Consulting",
+        "business_introduction": "DataWise Solutions provides data-driven AI consulting services to businesses.",
+        "ai_technology_focus": "Data Analytics, Machine Learning",
+        "contact_information": {
+          "email": "contact@datawisesolutions.com",
+          "website": "https://www.datawisesolutions.com"
+        }
+      },
+      {
+        "company_name": "Synapse AI",
+        "address": {
+          "city": "Phoenix",
+          "state": "AZ"
+        },
+        "funding_stage": "Series A",
+        "year_founded": 2019,
+        "employee_count": "70-90",
+        "industry": "AI Software",
+        "business_introduction": "Synapse AI develops AI-powered software solutions for various industries.",
+        "ai_technology_focus": "Natural Language Processing, Sentiment Analysis",
+        "contact_information": {
+          "email": "info@synapseai.com",
+          "website": "https://www.synapseai.com"
+        }
+      },
+      {
+        "company_name": "Algorithmics Inc.",
+        "address": {
+          "city": "Philadelphia",
+          "state": "PA"
+        },
+        "funding_stage": "Seed",
+        "year_founded": 2022,
+        "employee_count": "12-18",
+        "industry": "AI Research",
+        "business_introduction": "Algorithmics Inc. conducts research and development in the field of AI algorithms.",
+        "ai_technology_focus": "Machine Learning, Optimization Algorithms",
+        "contact_information": {
+          "email": "research@algorithmics.com",
+          "website": "https://www.algorithmics.com"
+        }
+      },
+      {
+        "company_name": "FutureTech Innovations",
+        "address": {
+          "city": "San Antonio",
+          "state": "TX"
+        },
+        "funding_stage": "Series A",
+        "year_founded": 2018,
+        "employee_count": "90-110",
+        "industry": "AI Technology",
+        "business_introduction": "FutureTech Innovations develops innovative AI solutions for various sectors.",
+        "ai_technology_focus": "Computer Vision, Robotics",
+        "contact_information": {
+          "email": "info@futuretech.com",
+          "website": "https://www.futuretech.com"
+        }
+      },
+      {
+        "company_name": "DeepMind Analytics",
+        "address": {
+          "city": "San Jose",
+          "state": "CA"
+        },
+        "funding_stage": "Seed",
+        "year_founded": 2023,
+        "employee_count": "7-12",
+        "industry": "AI Consulting",
+        "business_introduction": "DeepMind Analytics provides AI consulting services to help businesses optimize their data.",
+        "ai_technology_focus": "Data Analytics, Deep Learning",
+        "contact_information": {
+          "email": "contact@deepmindanalytics.com",
+          "website": "https://www.deepmindanalytics.com"
+        }
+      },
+      {
+        "company_name": "Global AI Solutions",
+        "address": {
+          "city": "Jacksonville",
+          "state": "FL"
+        },
+        "funding_stage": "Series A",
+        "year_founded": 2017,
+        "employee_count": "85-105",
+        "industry": "AI Software",
+        "business_introduction": "Global AI Solutions develops AI-powered software solutions for global markets.",
+        "ai_technology_focus": "Machine Learning, Natural Language Processing",
+        "contact_information": {
+          "email": "info@globalaisolutions.com",
+          "website": "https://www.globalaisolutions.com"
+        }
+      }
+    ]
